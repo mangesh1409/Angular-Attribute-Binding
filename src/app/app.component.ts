@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'attributeBinding';
+  col=4;
+  bdr=7;
+  height=200;
 }
